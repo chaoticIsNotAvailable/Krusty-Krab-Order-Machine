@@ -5,7 +5,7 @@ To launch the code you need: installed pycharm
 RMB click on the file "KrustyKrab", Open as, Pycharm
 done! now it should launch it
 after that, click green triangle "Run" on the upper left.
-![Image alt](KrustyKrabSource/tresh.jpg)
+![Screenshoot](KrustyKrabSource/tresh.jpg)
 -----------------RUNNING-----------------------------------------------------
 First, it drops random mr krabs quote, just for fun ig
 Then it welcomes you and asks if you want to proceed
